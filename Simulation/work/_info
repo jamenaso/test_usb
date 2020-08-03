@@ -1,0 +1,135 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/jamm/intelFPGA_pro/18.0/modelsim_ase/linuxaloem
+Emain
+Z0 w1538515393
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 d/home/jamm/Documentos/pruebas_unitarias_TFC/usb/Simulation
+Z6 8/home/jamm/Documentos/pruebas_unitarias_TFC/usb/Simulation/main.vhd
+Z7 F/home/jamm/Documentos/pruebas_unitarias_TFC/usb/Simulation/main.vhd
+l0
+L27
+VJTjm4no;hK5JgT2T9PkmT2
+!s100 `49GK9HIJffd??>BFUY490
+Z8 OV;C;10.6c;65
+32
+Z9 !s110 1539883187
+!i10b 1
+Z10 !s108 1539883187.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/jamm/Documentos/pruebas_unitarias_TFC/usb/Simulation/main.vhd|
+Z12 !s107 /home/jamm/Documentos/pruebas_unitarias_TFC/usb/Simulation/main.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 4 main 0 22 JTjm4no;hK5JgT2T9PkmT2
+l82
+L42
+VU_AW:H3_[>:dBm0C63@8H3
+!s100 UKLVI2?hkAVGnS_COKzgL2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Etestbench_usb
+Z15 w1539883185
+R1
+R2
+R3
+R4
+R5
+Z16 8/home/jamm/Documentos/pruebas_unitarias_TFC/usb/Simulation/testbench_usb.vhd
+Z17 F/home/jamm/Documentos/pruebas_unitarias_TFC/usb/Simulation/testbench_usb.vhd
+l0
+L6
+VHmOXf7hJANXNc?51QSm433
+!s100 e7>SBVWGKVc;6I2=OVP551
+R8
+32
+R9
+!i10b 1
+R10
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/jamm/Documentos/pruebas_unitarias_TFC/usb/Simulation/testbench_usb.vhd|
+Z19 !s107 /home/jamm/Documentos/pruebas_unitarias_TFC/usb/Simulation/testbench_usb.vhd|
+!i113 1
+R13
+R14
+Atestbench_usb_arq
+R1
+R2
+R3
+R4
+Z20 DEx4 work 13 testbench_usb 0 22 HmOXf7hJANXNc?51QSm433
+l68
+L9
+V7P:EYKa]lLEhXNGYF>IMJ3
+!s100 I^EfgPb;`Hza6A2V2oCBm3
+R8
+32
+R9
+!i10b 1
+R10
+R18
+R19
+!i113 1
+R13
+R14
+Euart
+Z21 w1538500322
+R3
+R4
+R5
+Z22 8/home/jamm/Documentos/pruebas_unitarias_TFC/usb/Simulation/uart.vhd
+Z23 F/home/jamm/Documentos/pruebas_unitarias_TFC/usb/Simulation/uart.vhd
+l0
+L26
+VWz[JdV=i?De=7OC:]KnnJ0
+!s100 agj^Jmh<Vld4DC<Uk=z?i2
+R8
+32
+R9
+!i10b 1
+R10
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/jamm/Documentos/pruebas_unitarias_TFC/usb/Simulation/uart.vhd|
+Z25 !s107 /home/jamm/Documentos/pruebas_unitarias_TFC/usb/Simulation/uart.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R3
+R4
+DEx4 work 4 uart 0 22 Wz[JdV=i?De=7OC:]KnnJ0
+l86
+L48
+VSAdUT^hzf`;GS`8QXzjRQ0
+!s100 2cn2b9N2a2`TD=nJ@4KV@1
+R8
+32
+R9
+!i10b 1
+R10
+R24
+R25
+!i113 1
+R13
+R14

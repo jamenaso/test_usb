@@ -1,0 +1,14 @@
+===================================
+Configuration Memory information
+===================================
+File Format        BIN
+Interface          SPIX4
+Size               2M
+Start Address      0x00000000
+End Address        0x001FFFFF
+Checksum           0x138EFF7A
+Fill Value         0xFF
+
+Addr1         Addr2         Date                    File(s)                                                                     Checksum
+0x00000000    0x000CF3F7    Oct  2 15:32:10 2018    /home/jamm/Documentos/pruebas_unitarias_TFC/usb/usb.runs/impl_1/main.bit    0x00960382
+File Checksum Total                                                                                                             0x00960382
